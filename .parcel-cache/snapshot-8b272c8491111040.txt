@@ -1215,7 +1215,7 @@
 64/home/ale/Desktop/forkify/node_modules/@parcel/utils/src/hash.js1722431574219741713 0
 79/home/ale/Desktop/forkify/node_modules/css-tree/cjs/definition-syntax/parse.cjs1722431573523749531 0
 78/home/ale/Desktop/forkify/node_modules/css-tree/cjs/definition-syntax/walk.cjs1722431573543749306 0
-46/home/ale/Desktop/forkify/src/js/controller.js1722434441370761479 0
+46/home/ale/Desktop/forkify/src/js/controller.js1722436932555069619 0
 75/home/ale/Desktop/forkify/node_modules/css-tree/cjs/syntax/config/lexer.cjs1722431573511749665 0
 69/home/ale/Desktop/forkify/node_modules/sass/types/value/function.d.ts1722431787717392299 0
 70/home/ale/Desktop/forkify/node_modules/@parcel/utils/test/input/config1722431575543726841 1
