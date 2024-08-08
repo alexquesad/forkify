@@ -71,7 +71,10 @@ class RecipeView extends View{
                 </div>
                 </div>
 
-                <div class="recipe__user-generated">
+                <div class="recipe__user-generated ${this._data.key ? '' : 'hidden'}">
+                    <svg>
+                        <use href="${icons}#icon-user"></use>
+                     </svg>
                 </div>
                 <button class="btn--round btn--bookmark">
                 <svg class="">
@@ -95,12 +98,12 @@ class RecipeView extends View{
                 </p>
                 <a
                 class="btn--small recipe__btn"
-                href="http://thepioneerwoman.com/cooking/pasta-with-tomato-cream-sauce/"
+                href="${this._data.sourceUrl}"
                 target="_blank"
                 >
                 <span>Directions</span>
                 <svg class="search__icon">
-                    <use href="${this._data.sourceUrl}"></use>
+                    <use href="${icons}#icon-arrow-right"></use>
                 </svg>
                 </a>
             </div>
